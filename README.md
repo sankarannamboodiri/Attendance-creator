@@ -8,9 +8,9 @@ This application can be used to automatically update attendance of a particular 
 - Make sure that you have installed python on your pc. You can install python from [Python's official website](https://www.python.org)
 - Install the browser extension [Google Meet Attendance List](https://chrome.google.com/webstore/detail/google-meet-attendance-li/appcnhiefcidclcdjeahgklghghihfok?hl=en)
 #### Python libraries required
--pandas (```pip install pandas```)
--easygui (```pip install easygui```)
--openpyxl(```pip install openpyxl```
+- pandas (```pip install pandas```)
+- easygui (```pip install easygui```)
+- openpyxl(```pip install openpyxl```
 
 ## Usage
 - Make an excel file with extension .xlsx  containing the names of people on the meeting (CLASS LIST).
