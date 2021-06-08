@@ -19,4 +19,4 @@ This application can be used to automatically update attendance of a particular 
 - This application is optimised to work with the chrome extension  [Google Meet Attendance List](https://chrome.google.com/webstore/detail/google-meet-attendance-li/appcnhiefcidclcdjeahgklghghihfok?hl=en) which is available on the chrome web store
 - The list of people present in the meeting (TODAYS LIST) must be in ".csv" format. Ensure that the first row of this excel is labelled "'Full Name'". (These requirements will be automatically met if the above mentioned extension is used to save the list of peoples present in the meeting)
 - The program can be executed by the command
-``` attendance_creator.py```
+``` python attendance_creator.py```
